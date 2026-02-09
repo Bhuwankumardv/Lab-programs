@@ -1,5 +1,6 @@
 1.Develop an application that uses GUI components, Font and Colors.
 
+'''
 MainActivity.java
 
 
@@ -281,6 +282,7 @@ acitivity_main.xml:
     </LinearLayout>
 </RelativeLayout>
 
+'''
 
 3. Develop a native calculator application
 
